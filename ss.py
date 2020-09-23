@@ -1,5 +1,4 @@
 import random as rand
-import numpy as np
 import csv
 import smtplib
 import imapclient
